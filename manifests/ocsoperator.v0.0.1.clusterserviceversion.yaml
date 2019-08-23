@@ -56,6 +56,12 @@ metadata:
       ]
     capabilities: Full Lifecycle
     categories: Storage
+    description: Manage the full lifecycle.
+    containerImage: quay.io/ocs-dev/ocs-operator:latest
+    createdAt: 2019-08-23T09:12:00Z
+    repository: https://github.com/openshift/ocs-operator
+    certified: "false"
+    support: jarrpa    
   name: ocsoperator.v0.0.1
   namespace: placeholder
 spec:
