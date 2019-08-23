@@ -1,4 +1,4 @@
 packageName: ocsoperator-registry
 channels:
 - name: alpha
-  currentCSV: ocsoperator.v0.0.1
+  currentCSV: ocsoperator.0.0.1
