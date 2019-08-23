@@ -56,7 +56,7 @@ metadata:
       ]
     capabilities: Full Lifecycle
     categories: Storage
-  name: ocs-operator.v0.0.1
+  name: ocsoperator.v0.0.1
   namespace: placeholder
 spec:
   apiservicedefinitions: {}
